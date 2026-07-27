@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
