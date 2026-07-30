@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2032-two-out-of-three](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/2032-two-out-of-three) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0013-roman-to-integer) |
+| [2032-two-out-of-three](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/2032-two-out-of-three) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0067-add-binary) |
+| [2032-two-out-of-three](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/2032-two-out-of-three) |
 ## Simulation
 |  |
 | ------- |
