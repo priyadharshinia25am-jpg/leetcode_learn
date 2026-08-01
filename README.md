@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
