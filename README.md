@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0628-maximum-product-of-three-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2032-two-out-of-three](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/2032-two-out-of-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/priyadharshinia25am-jpg/leetcode_learn/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
